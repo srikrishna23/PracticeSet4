@@ -1,0 +1,56 @@
+
+*{  color: white;
+    padding: 0;
+    margin: 0;
+    font-size: 16;
+}
+footer{
+    color: black;
+}
+#logo{
+    color: orange;
+    text-decoration: none;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+#navbar{
+    height: 60px;
+    
+    padding : 2px 40px 28px 10px;
+    background-color: #232f3e;
+}
+#buttonn{
+    color: black;
+    background-color: orange;
+    border-radius: 5px;
+}
+#search{
+    color: black;
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    color: black;
+}
+#d1{
+    background-color: rgba(255, 0, 0, 0.5);
+    padding: 25px;
+}
+#d2{
+    background-color: rgba(0,255,0,0.5);
+    padding: 25px;
+}
+#d3{
+    background-color: rgba(0,0,255,0.5);
+    padding: 25px;
+}
+footer{
+    background-color: rgba(0,0,0,0.8);
+    height: 100px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
